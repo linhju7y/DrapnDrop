@@ -2,15 +2,17 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Resizable from './Resizable';
 import reportWebVitals from './reportWebVitals';
 
-import { ResizableBox } from "react-resizable";
-import { ReplaceOnOverflow } from "./overflower";
-import "react-resizable/css/styles.css";
+// import { ResizableBox } from "react-resizable";
+// import { ReplaceOnOverflow } from "./overflower";
+// import "react-resizable/css/styles.css";
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <Resizable />
   </React.StrictMode>,
   document.getElementById('root')
 );
