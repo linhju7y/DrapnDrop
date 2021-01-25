@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DrapnDrop/static/css/main.b2698342.chunk.css",
+    "main.js": "/DrapnDrop/static/js/main.e5381bd5.chunk.js",
+    "main.js.map": "/DrapnDrop/static/js/main.e5381bd5.chunk.js.map",
+    "runtime-main.js": "/DrapnDrop/static/js/runtime-main.b669249a.js",
+    "runtime-main.js.map": "/DrapnDrop/static/js/runtime-main.b669249a.js.map",
+    "static/css/2.028e56f8.chunk.css": "/DrapnDrop/static/css/2.028e56f8.chunk.css",
+    "static/js/2.9f081217.chunk.js": "/DrapnDrop/static/js/2.9f081217.chunk.js",
+    "static/js/2.9f081217.chunk.js.map": "/DrapnDrop/static/js/2.9f081217.chunk.js.map",
+    "static/js/3.d9c211ff.chunk.js": "/DrapnDrop/static/js/3.d9c211ff.chunk.js",
+    "static/js/3.d9c211ff.chunk.js.map": "/DrapnDrop/static/js/3.d9c211ff.chunk.js.map",
+    "index.html": "/DrapnDrop/index.html",
+    "static/css/2.028e56f8.chunk.css.map": "/DrapnDrop/static/css/2.028e56f8.chunk.css.map",
+    "static/css/main.b2698342.chunk.css.map": "/DrapnDrop/static/css/main.b2698342.chunk.css.map",
+    "static/js/2.9f081217.chunk.js.LICENSE.txt": "/DrapnDrop/static/js/2.9f081217.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b669249a.js",
+    "static/css/2.028e56f8.chunk.css",
+    "static/js/2.9f081217.chunk.js",
+    "static/css/main.b2698342.chunk.css",
+    "static/js/main.e5381bd5.chunk.js"
+  ]
+}
